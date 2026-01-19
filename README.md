@@ -1,2 +1,2 @@
-This repository contains interactive simulations written in Java, focused on automation logic and simple graphical user interfaces (GUI). The project explores event-driven system control and data validation.
+This repository is a collection of automation projects developed using both Java (for GUI and event-driven logic) and MATLAB (for complex physical simulations and mathematical modeling).
 Examples of projects: Interactive Traffic Light (GUI), PIN-based Access Control System and a Pool game that simulates the collision and movement of billiard balls on a table, using position vectors and friction forces to render realistic behavior.
